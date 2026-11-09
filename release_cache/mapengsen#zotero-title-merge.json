@@ -1,0 +1,50 @@
+{
+  "last_checked": "2026-11-08T11:49:15.684913+00:00",
+  "checked_releases": [
+    {
+      "tag": "v1.2.0",
+      "published_at": "2026-11-08T11:00:03Z",
+      "xpi_asset_id": 723669369,
+      "xpi_name": "zotero-title-merge-1.2.0.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-title-merge/releases/download/v1.2.0/zotero-title-merge-1.2.0.xpi",
+      "addon_id": "title-merge@mapengsen.github.io",
+      "addon_name": "Title Merge / 同标题合并",
+      "addon_version": "1.2.0",
+      "addon_description": "Merge same-title items across Zotero item types, with publication priority, preview and metadata archives. 跨类型合并同标题文献，保留附件、笔记与分类。",
+      "min_zotero_version": "10.0",
+      "max_zotero_version": "10.0.*",
+      "update_url": "https://github.com/mapengsen/zotero-title-merge/releases/latest/download/updates.json",
+      "parse_success": true
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2026-11-08T10:37:28Z",
+      "xpi_asset_id": 723623217,
+      "xpi_name": "zotero-title-merge-1.1.0.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-title-merge/releases/download/v1.1.0/zotero-title-merge-1.1.0.xpi",
+      "addon_id": "title-merge@mapengsen.github.io",
+      "addon_name": "Title Merge / 同标题合并",
+      "addon_version": "1.1.0",
+      "addon_description": "Merge same-title items across Zotero item types, with publication priority, preview and metadata archives. 跨类型合并同标题文献，保留附件、笔记与分类。",
+      "min_zotero_version": "10.0",
+      "max_zotero_version": "10.0.*",
+      "update_url": "https://github.com/mapengsen/zotero-title-merge/releases/latest/download/updates.json",
+      "parse_success": true
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2026-11-08T09:29:21Z",
+      "xpi_asset_id": 723493604,
+      "xpi_name": "zotero-title-merge-1.0.0.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-title-merge/releases/download/v1.0.0/zotero-title-merge-1.0.0.xpi",
+      "addon_id": "title-merge@mapengsen.github.io",
+      "addon_name": "Title Merge / 同标题合并",
+      "addon_version": "1.0.0",
+      "addon_description": "Merge same-title items across Zotero item types, with publication priority, preview and metadata archives. 跨类型合并同标题文献，保留附件、笔记与分类。",
+      "min_zotero_version": "10.0",
+      "max_zotero_version": "10.0.*",
+      "update_url": "https://github.com/mapengsen/zotero-title-merge/releases/latest/download/updates.json",
+      "parse_success": true
+    }
+  ]
+}
