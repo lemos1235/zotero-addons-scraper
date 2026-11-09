@@ -1,0 +1,32 @@
+{
+  "last_checked": "2026-11-09T05:35:50.669281+00:00",
+  "checked_releases": [
+    {
+      "tag": "v1.1.1",
+      "published_at": "2026-11-08T13:27:29Z",
+      "xpi_asset_id": 724020878,
+      "xpi_name": "zotero-centers-1.1.1.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-centers/releases/download/v1.1.1/zotero-centers-1.1.1.xpi",
+      "parse_success": false,
+      "parse_error": "Download failed"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2026-11-08T12:55:03Z",
+      "xpi_asset_id": 723938512,
+      "xpi_name": "zotero-centers-1.1.0.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-centers/releases/download/v1.1.0/zotero-centers-1.1.0.xpi",
+      "parse_success": false,
+      "parse_error": "Download failed"
+    },
+    {
+      "tag": "v1.0.2",
+      "published_at": "2026-11-08T12:06:12Z",
+      "xpi_asset_id": 723816635,
+      "xpi_name": "zotero-centers-1.0.2.xpi",
+      "xpi_download_url": "https://github.com/mapengsen/zotero-centers/releases/download/v1.0.2/zotero-centers-1.0.2.xpi",
+      "parse_success": false,
+      "parse_error": "Download failed"
+    }
+  ]
+}
